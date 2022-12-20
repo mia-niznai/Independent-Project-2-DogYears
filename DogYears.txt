@@ -1,0 +1,29 @@
+//Create myAge variable
+let myAge = 33;
+
+//Create earlyYears variable
+let earlyYears = 2;
+
+//Multiply earlyYears by 10.5
+earlyYears *= 10.5;
+
+//Define laterYears variable
+let laterYears = myAge - 2;
+
+//Multiply laterYears by 4
+laterYears *= 4;
+
+//Console.log earlyYears and laterYears
+console.log(earlyYears);
+console.log(laterYears);
+
+//Define myAgeInDogYears variable
+let myAgeInDogYears = earlyYears + laterYears;
+
+//Invoke myName
+myName = "Maria".toLowerCase();
+
+//Write a console.log statement that displays name and age in dog years
+console.log(
+  `My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`
+);
