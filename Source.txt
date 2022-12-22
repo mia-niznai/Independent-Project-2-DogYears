@@ -1,5 +1,2 @@
 This link takes you to the source of the exercise:
 https://www.codecademy.com/courses/introduction-to-javascript/projects/dog-years-javascript
-I calculated my age in dog years.
-I used *=, .toLowerCase(), console.log with back ticks.
-My target is to do as many independent projects as possible in order to improve my coding skills.
